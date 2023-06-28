@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+.top-container
+{   background-color: #020308;
+    position: relative;
+    padding: 0;
+    height: 600px;
+}
+.top-container img{
+    height: 600px;
+}
+.title-text{
+    position: absolute;
+    padding-left: 950px;
+    top: 25%;
+    color: #66bfbf;
+    font-size: 4.5rem;
+    margin: 50px auto 0 auto;
+    font-family: "Brush Script MT", cursive;
+    font-weight: bold;
+}
+.title-text h1 {
+    font-size: 4.5rem;
+}
+.title-text h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+}
+.container img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}  
+.container h2{
+    color: #0f7474;
+    font-size: 3rem;
+    font-family: "Georgia", Georgia, 'Times New Roman', Times, serif;
+}
+#skills, .container, p{
+    color: #0f7474;
+    font-size: 1.25rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    align-items: center;
+}
+.container h3{
+    font-size: 2.5rem;
+    color: rgb(33, 49, 85);
+} 
+#lastly h4{
+    color: rgb(12, 72, 85);
+    font-size: 3rem;
+}
+.fun{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#footers{
+    background-color: #0f7474;
+}
